@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleThreadingDemo", "MultipleThreads\SimpleThreadingDemo.csproj", "{D33E2077-98A1-4E70-82C6-CC7235F3DBDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadUseMutex", "ThreadUseMutex\ThreadUseMutex.csproj", "{DE537596-B213-4C14-9EA6-91AB984FA804}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadPoolDemo", "ThreadPoolDemo\ThreadPoolDemo.csproj", "{FAFED02D-A3AB-44E1-9A05-4C8E93DF0695}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D33E2077-98A1-4E70-82C6-CC7235F3DBDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D33E2077-98A1-4E70-82C6-CC7235F3DBDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D33E2077-98A1-4E70-82C6-CC7235F3DBDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D33E2077-98A1-4E70-82C6-CC7235F3DBDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE537596-B213-4C14-9EA6-91AB984FA804}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE537596-B213-4C14-9EA6-91AB984FA804}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE537596-B213-4C14-9EA6-91AB984FA804}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE537596-B213-4C14-9EA6-91AB984FA804}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAFED02D-A3AB-44E1-9A05-4C8E93DF0695}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAFED02D-A3AB-44E1-9A05-4C8E93DF0695}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAFED02D-A3AB-44E1-9A05-4C8E93DF0695}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAFED02D-A3AB-44E1-9A05-4C8E93DF0695}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

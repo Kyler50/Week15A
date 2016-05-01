@@ -1,0 +1,6 @@
+c:\users\kristof\documents\visual studio 2015\Projects\SerializationClass\SerializationClass\obj\Debug\Serialize-People.csprojResolveAssemblyReference.cache
+c:\users\kristof\documents\visual studio 2015\Projects\SerializationClass\SerializationClass\bin\Debug\SerializationClass.exe.config
+c:\users\kristof\documents\visual studio 2015\Projects\SerializationClass\SerializationClass\bin\Debug\SerializationClass.exe
+c:\users\kristof\documents\visual studio 2015\Projects\SerializationClass\SerializationClass\bin\Debug\SerializationClass.pdb
+c:\users\kristof\documents\visual studio 2015\Projects\SerializationClass\SerializationClass\obj\Debug\SerializationClass.exe
+c:\users\kristof\documents\visual studio 2015\Projects\SerializationClass\SerializationClass\obj\Debug\SerializationClass.pdb

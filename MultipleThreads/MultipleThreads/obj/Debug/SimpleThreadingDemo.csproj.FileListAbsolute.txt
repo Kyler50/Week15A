@@ -1,0 +1,6 @@
+c:\users\kristof\documents\visual studio 2015\Projects\MultipleThreads\MultipleThreads\bin\Debug\MultipleThreads.exe.config
+c:\users\kristof\documents\visual studio 2015\Projects\MultipleThreads\MultipleThreads\bin\Debug\MultipleThreads.exe
+c:\users\kristof\documents\visual studio 2015\Projects\MultipleThreads\MultipleThreads\bin\Debug\MultipleThreads.pdb
+c:\users\kristof\documents\visual studio 2015\Projects\MultipleThreads\MultipleThreads\obj\Debug\SimpleThreadingDemo.csprojResolveAssemblyReference.cache
+c:\users\kristof\documents\visual studio 2015\Projects\MultipleThreads\MultipleThreads\obj\Debug\MultipleThreads.exe
+c:\users\kristof\documents\visual studio 2015\Projects\MultipleThreads\MultipleThreads\obj\Debug\MultipleThreads.pdb
