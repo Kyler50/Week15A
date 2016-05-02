@@ -4,3 +4,4 @@ c:\users\kristof\documents\visual studio 2015\Projects\SerializationClass\Serial
 c:\users\kristof\documents\visual studio 2015\Projects\SerializationClass\SerializationClass\bin\Debug\SerializationClass.pdb
 c:\users\kristof\documents\visual studio 2015\Projects\SerializationClass\SerializationClass\obj\Debug\SerializationClass.exe
 c:\users\kristof\documents\visual studio 2015\Projects\SerializationClass\SerializationClass\obj\Debug\SerializationClass.pdb
+C:\Users\Vas Richard Roland\Documents\Visual Studio 2015\Projects\Week15A\SerializationClass\SerializationClass\bin\Debug\SerializationClass.exe.config
